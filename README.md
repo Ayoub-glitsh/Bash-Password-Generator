@@ -1,7 +1,6 @@
 # Secure Password Generator  
 
-
-![Description](images/password generator.png)
+<img src="images/password generator bash" alt="description">
 
 A feature-rich Bash script for generating cryptographically secure passwords using `/dev/urandom`.
 
