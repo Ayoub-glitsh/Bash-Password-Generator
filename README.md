@@ -22,14 +22,20 @@ This script requires a Bash-compatible environment.
 
 ### ⚡ Quick Start
 
-1. **Make the script executable**:
+   
+1. **Make the script executable (Mac/Linux)**:
    ```bash
    chmod +x password_generator.sh
    ```
 
+
 2. **Run the script**:
-   ```bash
+    ```bash
+   # Method 1: Using the executable (Linux/Mac/Git Bash)
    ./password_generator.sh
+
+   # Method 2: Calling bash directly (Works on all platforms)
+   bash password_generator.sh
    ```
 
 ---
