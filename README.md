@@ -1,4 +1,4 @@
-# 🔐 Secure Password Generator
+# 🔐 Secure Password Generator  
 
 A feature-rich Bash script for generating cryptographically secure passwords using `/dev/urandom`.
 
