@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Secure+Password+Generator&center=true&width=500&height=50">
+
 # Secure Password Generator  
 
 <img src="https://i.postimg.cc/c4Y8sPRY/password-generator-bash.png" alt="description">
